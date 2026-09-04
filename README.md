@@ -45,7 +45,10 @@ nex-digital/
 ├── style.css           # Estilos compartilhados (tema, componentes, responsivo)
 ├── script.js           # Interações + configuração de contato centralizada
 ├── README.md
-└── demos/              # Sites de demonstração por nicho
+├── img/                 # Fotos usadas nas demos, organizadas por nicho
+│   ├── barbearia/           hero.jpg + foto1–4.jpg
+│   └── academia/            hero.jpg + foto1–3.jpg
+└── demos/               # Sites de demonstração por nicho
     ├── barbearia.html      → Studio Navalha
     ├── academia.html       → Forma Fitness
     └── restaurante.html    → Cantina Rossi
